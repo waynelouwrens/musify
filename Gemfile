@@ -58,3 +58,5 @@ gem 'bootstrap-sass', '~> 3.3.6'
 
 # Use jQuery for easier javascript
 gem 'jquery-rails', '~> 4.3.1'
+
+gem 'carrierwave', '~> 1.2', '>= 1.2.1'
